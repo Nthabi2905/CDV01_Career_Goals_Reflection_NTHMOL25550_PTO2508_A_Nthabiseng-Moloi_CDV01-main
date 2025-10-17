@@ -1,3 +1,23 @@
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
+  - [Personal Information](#personal-information)
+  - [Part 1: Self-Assessment Reflection](#part-1-self-assessment-reflection)
+    - [1. Skills Analysis:](#1-skills-analysis)
+    - [2. Interests and Values:](#2-interests-and-values)
+  - [Part 2: Career Exploration Insights](#part-2-career-exploration-insights)
+    - [1. Industries and Roles Explored:](#1-industries-and-roles-explored)
+    - [2. Alignment with Personal Profile:](#2-alignment-with-personal-profile)
+  - [Part 3: SMART Career Goals](#part-3-smart-career-goals)
+    - [1. Short-term Goals (Next 1-2 years):](#1-short-term-goals-next-1-2-years)
+    - [2. Long-term Goals (3-5 years and beyond):](#2-long-term-goals-3-5-years-and-beyond)
+  - [Part 4: Action Plan](#part-4-action-plan)
+    - [1. Steps to Achieve Short-term Goals:](#1-steps-to-achieve-short-term-goals)
+    - [2. Preparation for Long-term Goals:](#2-preparation-for-long-term-goals)
+  - [Part 5: Reflection on Challenges and Opportunities](#part-5-reflection-on-challenges-and-opportunities)
+    - [1. Anticipated Challenges:](#1-anticipated-challenges)
+    - [2. Opportunities for Growth:](#2-opportunities-for-growth)
+
 ## Personal Information
 
 - **Name:** Nthabiseng Moloi
@@ -96,6 +116,7 @@ I’ve identified areas for further development, particularly in advanced front-
 ### 2. Long-term Goals (3-5 years and beyond):
 
 **🌠 Long-Term Career Aspirations**
+
 In the long term, I aspire to become a Front-End Developer and EdTech Product Designer who creates interactive, accessible, and impactful digital learning experiences. I see myself designing and developing web-based tools and platforms that make STEM education more engaging, inclusive, and relevant for learners across South Africa and beyond.
 
 My goal is to work at the intersection of technology, education, and creativity developing innovative digital solutions that bridge the gap between traditional learning and the evolving digital world. I also hope to eventually lead or contribute to projects that use coding, robotics, and digital design to empower teachers and learners, especially in under-resourced communities.
