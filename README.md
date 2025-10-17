@@ -1,9 +1,9 @@
 # Personal Information
 
-**Name:** Nthabiseng Moloi
-**Date:** 17 October 2025
-**Current Role/Position:** Director:Somerset College Saturday School
-**Field of Interest:** Front-end Developer, UI/UX Designer, Web Content Developer / Digital Learning Developer, EdTech Product Designer / Developer, STEM Education Technologist
+- **Name:** Nthabiseng Moloi
+- **Date:** 17 October 2025
+- **Current Role/Position:** Director:Somerset College Saturday School
+- **Field of Interest:** Front-end Developer, UI/UX Designer, Web Content Developer / Digital Learning Developer, EdTech Product Designer / Developer, STEM Education Technologist
 
 ## Part 1: Self-Assessment Reflection
 
@@ -24,12 +24,12 @@
 
    - Identify skills you need to develop or improve.
 
-     1. JavaScript
-     2. Responsive Web Design
-     3. Basic UI/UX Design Principles
-     4. Wireframing and Prototyping (Figma)
-     5. React.js
-     6. Debugging & Browser Developer Tools
+   - [ ] JavaScript
+   - [ ] Responsive Web Design
+   - [ ]Basic UI/UX Design Principles
+   - [ ] Wireframing and Prototyping (Figma)
+   - [ ] React.js
+   - [ ] Debugging & Browser Developer Tools
 
 2. **Interests and Values**:
 
