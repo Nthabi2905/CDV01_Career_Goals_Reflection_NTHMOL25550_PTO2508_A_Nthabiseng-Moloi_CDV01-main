@@ -13,7 +13,6 @@
     - [2. Long-term Goals (3-5 years and beyond):](#2-long-term-goals-3-5-years-and-beyond)
   - [Part 4: Action Plan](#part-4-action-plan)
     - [1. Steps to Achieve Short-term Goals:](#1-steps-to-achieve-short-term-goals)
-  - [🎯 Short-Term Goals: Actions, Steps, and Required Support](#-short-term-goals-actions-steps-and-required-support)
     - [2. Preparation for Long-term Goals:](#2-preparation-for-long-term-goals)
   - [Part 5: Reflection on Challenges and Opportunities](#part-5-reflection-on-challenges-and-opportunities)
     - [1. Anticipated Challenges:](#1-anticipated-challenges)
@@ -140,7 +139,7 @@ Ultimately, my long-term vision is to use technology as a tool to inspire curios
 
 ### 1. Steps to Achieve Short-term Goals:
 
-## 🎯 Short-Term Goals: Actions, Steps, and Required Support
+**🎯 Short-Term Goals: Actions, Steps, and Required Support**
 
 | Goal                                                                                                                      | Actions / Steps                                                                                                                                                                                                                                                                                                                                       | Resources / Support Needed                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -149,12 +148,11 @@ Ultimately, my long-term vision is to use technology as a tool to inspire curios
 | **Goal 3:** Participate in Hackathons throughout                                                                          | - Research local and online hackathons focused on tech, coding, or STEM.<br>- Form or join a team to compete in challenges.<br>- Document projects and reflect on lessons learned.<br>- Showcase outcomes in portfolio or LinkedIn.                                                                                                                   | - Access to hackathon platforms and announcements.<br>- Mentorship or guidance for project ideas and coding support.<br>- Collaboration tools (GitHub, Figma, Discord, etc.).            |
 | **Goal 4:** Learn UI/UX Design Tools and Complete a Prototype Project by December 2025                                    | - Enroll in a beginner-friendly Figma or Adobe XD course.<br>- Design wireframes for a small educational web app or digital learning interface.<br>- Conduct informal user testing with teachers or peers to gather feedback.<br>- Add the finished design prototype to my online portfolio.                                                          | - Figma (free plan) or Adobe XD access.<br>- Tutorials on YouTube or Coursera (e.g., “Google UX Design” course).<br>- Collaboration opportunities with other learners for user feedback. |
 | **Goal 5:** Attend a Tech or EdTech Conference or Workshop throughout                                                     | - Research local and virtual events such as SheCodes, Women in Tech South Africa, or EdTech Summit Africa.<br>- Register early and prepare to present portfolio or project ideas.<br>- Connect with professionals and follow up on mentorship or collaboration opportunities.<br>- Reflect on key takeaways and integrate them into learning journey. | - Conference registration funds or sponsorship.<br>- Support from CodeSpace Career Services for event recommendations.<br>- Updated CV and portfolio for networking purposes.            |
-|  |
+|                                                                                                                           |
 
 ### 2. Preparation for Long-term Goals:
 
-- Describe the preparations or groundwork necessary for your long-term aspirations.
-- Consider additional skills, experiences, or qualifications needed.
+My career path is focused on leveraging technology to transform learning. I am actively developing my technical stack and building a portfolio of projects to bridge the gap between educational theory and digital innovation. Complemented by direct experience in STEM education and mentorship, my goal is to apply my skills in front-end development and user-centric design to build EdTech products that make a tangible impact.
 
 ---
 
@@ -162,8 +160,14 @@ Ultimately, my long-term vision is to use technology as a tool to inspire curios
 
 ### 1. Anticipated Challenges:
 
-- Identify potential obstacles or challenges in reaching your goals.
-- Consider strategies to overcome these challenges.
+**🚧 Obstacles & Mitigation Strategies**
+
+| Obstacle                       | Challenge Description                                                                 | Mitigation Strategy                                                                                                                                                                                                  |
+| :----------------------------- | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Evolving Technology**        | The rapid pace of change in frameworks and tools makes it difficult to stay current.  | - Dedicate consistent time for continuous learning.<br>- Master core fundamentals (JavaScript, HTML, CSS).<br>- Engage with the developer community via forums and meetups.                                          |
+| **Career Transition**          | Lack of direct professional experience in tech can be a barrier to entry.             | - Build a compelling, project-based portfolio.<br>- Gain experience through freelancing, open-source, and hackathons.<br>- Conduct strategic networking and seek mentorship.                                         |
+| **Skill Depth vs. Breadth**    | Tension between specializing deeply and having the broad skillset expected in EdTech. | - Adopt a "T-shaped" skillset model (deep in front-end, broad in adjacent areas).<br>- Prioritize learning based on target job market needs.<br>- Learn collaboratively on team projects.                            |
+| **Non-Traditional Background** | Effectively communicating the value of an education background in a tech context.     | - Reframe narrative to highlight EdTech domain expertise.<br>- Create portfolio projects that solve real educational problems.<br>- Explicitly connect transferable skills (e.g., project management, user empathy). |
 
 ### 2. Opportunities for Growth:
 
