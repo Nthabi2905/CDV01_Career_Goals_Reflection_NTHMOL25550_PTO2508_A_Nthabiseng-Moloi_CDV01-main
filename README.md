@@ -1,4 +1,4 @@
-# Personal Information
+## Personal Information
 
 - **Name:** Nthabiseng Moloi
 - **Date:** 17 October 2025
