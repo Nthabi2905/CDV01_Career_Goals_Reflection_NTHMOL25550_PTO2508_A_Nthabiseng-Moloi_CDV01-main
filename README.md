@@ -7,22 +7,22 @@
 
 ## Part 1: Self-Assessment Reflection
 
-1. **Skills Analysis**:
+1. # Skills Analysis:
 
-   - List of my current skills and areas of expertise.
+   **List of my current skills and areas of expertise.**
 
-     - HTML5
-     - CSS3
-     - Version Control (Git & GitHub)
-     - Visual Studio Code (VS Code)
-     - Coding & Robotics Education
-     - STEM Curriculum Development
-     - Online Facilitation & Engagement
-     - Science Communication
-     - Project Coordination & Event Management
-     - Stakeholder Engagement & Partnership Building
+   - HTML5
+   - CSS3
+   - Version Control (Git & GitHub)
+   - Visual Studio Code (VS Code)
+   - Coding & Robotics Education
+   - STEM Curriculum Development
+   - Online Facilitation & Engagement
+   - Science Communication
+   - Project Coordination & Event Management
+   - Stakeholder Engagement & Partnership Building
 
-   - Skills I need to develop or improve.
+   **Skills I need to develop or improve.**
 
    - [ ] JavaScript
    - [ ] Responsive Web Design
@@ -31,10 +31,15 @@
    - [ ] React.js
    - [ ] Debugging & Browser Developer Tools
 
-2. **Interests and Values**:
+1. # Interests and Values\*\*:
 
-   - Describe your key interests related to your career.
-   - What values are important to you in a work environment?
+   **Describe your key interests related to your career.**
+
+I am deeply interested in the intersection of education, technology, and creativity particularly how digital tools can transform the way learners engage with STEM subjects. My passion lies in using front-end development and UI/UX design to create interactive, accessible, and visually engaging learning platforms that simplify complex scientific concepts and make education more inclusive.
+
+Ultimately, my career interests focus on combining my experience in STEM education and science communication with my developing skills in front-end development to design and implement solutions that make learning more interactive, equitable, and future-focused.
+
+- What values are important to you in a work environment?
 
 ### Part 2: Career Exploration Insights
 
