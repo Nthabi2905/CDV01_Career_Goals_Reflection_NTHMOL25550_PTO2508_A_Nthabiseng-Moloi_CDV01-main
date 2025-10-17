@@ -7,41 +7,47 @@
 
 ## Part 1: Self-Assessment Reflection
 
-1. # Skills Analysis:
+### 1. Skills Analysis:
 
-   **List of my current skills and areas of expertise.**
+**List of my current skills and areas of expertise.**
 
-   - HTML5
-   - CSS3
-   - Version Control (Git & GitHub)
-   - Visual Studio Code (VS Code)
-   - Coding & Robotics Education
-   - STEM Curriculum Development
-   - Online Facilitation & Engagement
-   - Science Communication
-   - Project Coordination & Event Management
-   - Stakeholder Engagement & Partnership Building
+- HTML5
+- CSS3
+- Version Control (Git & GitHub)
+- Visual Studio Code (VS Code)
+- Coding & Robotics Education
+- STEM Curriculum Development
+- Online Facilitation & Engagement
+- Science Communication
+- Project Coordination & Event Management
+- Stakeholder Engagement & Partnership Building
 
-   **Skills I need to develop or improve.**
+**Skills I need to develop or improve.**
 
-   - [ ] JavaScript
-   - [ ] Responsive Web Design
-   - [ ] Basic UI/UX Design Principles
-   - [ ] Wireframing and Prototyping (Figma)
-   - [ ] React.js
-   - [ ] Debugging & Browser Developer Tools
+- [ ] JavaScript
+- [ ] Responsive Web Design
+- [ ] Basic UI/UX Design Principles
+- [ ] Wireframing and Prototyping (Figma)
+- [ ] React.js
+- [ ] Debugging & Browser Developer Tools
 
-1. # Interests and Values\*\*:
+### 2. Interests and Values:
 
-   **Describe your key interests related to your career.**
+**Key interests related to my career.**
 
 I am deeply interested in the intersection of education, technology, and creativity particularly how digital tools can transform the way learners engage with STEM subjects. My passion lies in using front-end development and UI/UX design to create interactive, accessible, and visually engaging learning platforms that simplify complex scientific concepts and make education more inclusive.
 
 Ultimately, my career interests focus on combining my experience in STEM education and science communication with my developing skills in front-end development to design and implement solutions that make learning more interactive, equitable, and future-focused.
 
-- What values are important to you in a work environment?
+**Values that are important to me in a work environment?**
 
-### Part 2: Career Exploration Insights
+In a work environment, I value collaboration, creativity, and continuous learning. I believe that the best results come from working in a team that encourages idea-sharing, innovation, and mutual respect.
+
+I’m drawn to environments that promote growth and knowledge exchange, where I can learn from others, contribute my skills, and stay updated with new technologies and trends.
+
+Inclusivity and purpose are also very important to me I’m motivated by workplaces that are committed to empowering others, especially through education and technology(This fills my cup).
+
+## Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
 
