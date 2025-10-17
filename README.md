@@ -79,7 +79,7 @@ These roles also align with my values of collaboration, inclusivity, and continu
 
 **Identify any gaps or areas for further exploration.**
 
-## I’ve identified areas for further development, particularly in advanced front-end programming (JavaScript and React), UI/UX design tools (such as Figma), and learning experience design (LXD). I would also like to explore more about how EdTech products are developed and tested, from user research to implementation in schools. Strengthening these skills will enable me to contribute more effectively to the design and development of digital learning solutions that reflect both my technical capabilities and my commitment to inclusive, future-focused education.
+I’ve identified areas for further development, particularly in advanced front-end programming (JavaScript and React), UI/UX design tools (such as Figma), and learning experience design (LXD). I would also like to explore more about how EdTech products are developed and tested, from user research to implementation in schools. Strengthening these skills will enable me to contribute more effectively to the design and development of digital learning solutions that reflect both my technical capabilities and my commitment to inclusive, future-focused education.
 
 ### Part 3: SMART Career Goals
 
