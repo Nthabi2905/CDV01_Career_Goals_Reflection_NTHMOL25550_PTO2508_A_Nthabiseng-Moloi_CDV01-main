@@ -85,20 +85,34 @@ I’ve identified areas for further development, particularly in advanced front-
 
 ### 1. Short-term Goals (Next 1-2 years):
 
-- List your specific, measurable, achievable, relevant, and time-bound goals.
-- Explain the rationale behind each goal.
+**🎯 SMART Goals and Rationale**
+
+- Goal 1: Complete the Front-End Development Course with CodeSpace Academy and Build a Portfolio Website by August 2026
+- Goal 2: Strengthen JavaScript and React Skills by August 2026
+- Goal 3: Participate in hackerthons throughout
+- Goal 4: Learn UI/UX Design Tools and Complete a Prototype Project by Decemeber 2025
+- Goal 5: Attend a Tech or EdTech Conference or Workshop through out
 
 ### 2. Long-term Goals (3-5 years and beyond):
 
-- Outline your long-term career aspirations.
-- Describe how these align with your interests and skills.
+**🌠 Long-Term Career Aspirations**
+In the long term, I aspire to become a Front-End Developer and EdTech Product Designer who creates interactive, accessible, and impactful digital learning experiences. I see myself designing and developing web-based tools and platforms that make STEM education more engaging, inclusive, and relevant for learners across South Africa and beyond.
+
+My goal is to work at the intersection of technology, education, and creativity developing innovative digital solutions that bridge the gap between traditional learning and the evolving digital world. I also hope to eventually lead or contribute to projects that use coding, robotics, and digital design to empower teachers and learners, especially in under-resourced communities.
+
+**💡 Alignment with My Interests and Skills**
+
+These aspirations align closely with my lifelong interests in STEM education, science communication, and creative problem-solving. My background in curriculum development, coding and robotics facilitation, and science engagement has given me a deep understanding of how people learn and what makes educational content effective.
+
+By combining these strengths with my growing technical skills in front-end development, UI/UX design, and digital learning design, I can contribute meaningfully to the EdTech industry a field that reflects my core values of innovation, inclusion, collaboration, and lifelong learning.
+
+Ultimately, my long-term vision is to use technology as a tool to inspire curiosity, improve access to STEM education, and drive social impact through digital innovation.
+
+---
 
 ## Part 4: Action Plan
 
 ### 1. Steps to Achieve Short-term Goals:
-
-- Detail specific actions or steps needed to achieve each short-term goal.
-- Include any resources or support required.
 
 ### 2. Preparation for Long-term Goals:
 
