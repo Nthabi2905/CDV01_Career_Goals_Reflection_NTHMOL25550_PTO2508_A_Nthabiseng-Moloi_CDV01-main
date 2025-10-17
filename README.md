@@ -69,6 +69,8 @@ I’m drawn to environments that promote growth and knowledge exchange, where I 
 
 Inclusivity and purpose are also very important to me I’m motivated by workplaces that are committed to empowering others, especially through education and technology(This fills my cup).
 
+---
+
 ## Part 2: Career Exploration Insights
 
 ### 1. Industries and Roles Explored:
@@ -100,6 +102,8 @@ These roles also align with my values of collaboration, inclusivity, and continu
 **Identify any gaps or areas for further exploration.**
 
 I’ve identified areas for further development, particularly in advanced front-end programming (JavaScript and React), UI/UX design tools (such as Figma), and learning experience design (LXD). I would also like to explore more about how EdTech products are developed and tested, from user research to implementation in schools. Strengthening these skills will enable me to contribute more effectively to the design and development of digital learning solutions that reflect both my technical capabilities and my commitment to inclusive, future-focused education.
+
+---
 
 ## Part 3: SMART Career Goals
 
@@ -139,6 +143,8 @@ Ultimately, my long-term vision is to use technology as a tool to inspire curios
 
 - Describe the preparations or groundwork necessary for your long-term aspirations.
 - Consider additional skills, experiences, or qualifications needed.
+
+---
 
 ## Part 5: Reflection on Challenges and Opportunities
 
