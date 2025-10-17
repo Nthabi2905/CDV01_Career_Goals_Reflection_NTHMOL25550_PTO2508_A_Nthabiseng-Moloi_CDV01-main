@@ -81,46 +81,38 @@ These roles also align with my values of collaboration, inclusivity, and continu
 
 I’ve identified areas for further development, particularly in advanced front-end programming (JavaScript and React), UI/UX design tools (such as Figma), and learning experience design (LXD). I would also like to explore more about how EdTech products are developed and tested, from user research to implementation in schools. Strengthening these skills will enable me to contribute more effectively to the design and development of digital learning solutions that reflect both my technical capabilities and my commitment to inclusive, future-focused education.
 
-### Part 3: SMART Career Goals
+## Part 3: SMART Career Goals
 
-1. **Short-term Goals** (Next 1-2 years):
+### 1. Short-term Goals (Next 1-2 years):
 
-   - List your specific, measurable, achievable, relevant, and time-bound goals.
-   - Explain the rationale behind each goal.
+- List your specific, measurable, achievable, relevant, and time-bound goals.
+- Explain the rationale behind each goal.
 
-2. **Long-term Goals** (3-5 years and beyond):
+### 2. Long-term Goals (3-5 years and beyond):
 
-   - Outline your long-term career aspirations.
-   - Describe how these align with your interests and skills.
+- Outline your long-term career aspirations.
+- Describe how these align with your interests and skills.
 
-### Part 4: Action Plan
+## Part 4: Action Plan
 
-1. **Steps to Achieve Short-term Goals**:
+### 1. Steps to Achieve Short-term Goals:
 
-   - Detail specific actions or steps needed to achieve each short-term goal.
-   - Include any resources or support required.
+- Detail specific actions or steps needed to achieve each short-term goal.
+- Include any resources or support required.
 
-2. **Preparation for Long-term Goals**:
+### 2. Preparation for Long-term Goals:
 
-   - Describe the preparations or groundwork necessary for your long-term aspirations.
-   - Consider additional skills, experiences, or qualifications needed.
+- Describe the preparations or groundwork necessary for your long-term aspirations.
+- Consider additional skills, experiences, or qualifications needed.
 
-### Part 5: Reflection on Challenges and Opportunities
+## Part 5: Reflection on Challenges and Opportunities
 
-1. **Anticipated Challenges**:
+### 1. Anticipated Challenges:
 
-   - Identify potential obstacles or challenges in reaching your goals.
-   - Consider strategies to overcome these challenges.
+- Identify potential obstacles or challenges in reaching your goals.
+- Consider strategies to overcome these challenges.
 
-2. **Opportunities for Growth**:
+### 2. Opportunities for Growth:
 
-   - Highlight any opportunities you can leverage for career growth.
-   - Include networking, mentorship, or educational opportunities.
-
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+- Highlight any opportunities you can leverage for career growth.
+- Include networking, mentorship, or educational opportunities.
