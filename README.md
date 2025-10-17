@@ -9,24 +9,24 @@
 
 1. **Skills Analysis**:
 
-   - List your current skills and areas of expertise.
+   - List of my current skills and areas of expertise.
 
-     1. HTML5
-     2. CSS3
-     3. Version Control (Git & GitHub)
-     4. Visual Studio Code (VS Code)
-     5. Coding & Robotics Education
-     6. STEM Curriculum Development
-     7. Online Facilitation & Engagement
-     8. Science Communication
-     9. Project Coordination & Event Management
-     10. Stakeholder Engagement & Partnership Building
+     - HTML5
+     - CSS3
+     - Version Control (Git & GitHub)
+     - Visual Studio Code (VS Code)
+     - Coding & Robotics Education
+     - STEM Curriculum Development
+     - Online Facilitation & Engagement
+     - Science Communication
+     - Project Coordination & Event Management
+     - Stakeholder Engagement & Partnership Building
 
-   - Identify skills you need to develop or improve.
+   - Skills I need to develop or improve.
 
    - [ ] JavaScript
    - [ ] Responsive Web Design
-   - [ ]Basic UI/UX Design Principles
+   - [ ] Basic UI/UX Design Principles
    - [ ] Wireframing and Prototyping (Figma)
    - [ ] React.js
    - [ ] Debugging & Browser Developer Tools
