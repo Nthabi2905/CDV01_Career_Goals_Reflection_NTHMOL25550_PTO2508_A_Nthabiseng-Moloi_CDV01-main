@@ -47,7 +47,7 @@ In a work environment, I value collaboration, creativity, and continuous learnin
 
 I’m drawn to environments that promote growth and knowledge exchange, where I can learn from others, contribute my skills, and stay updated with new technologies and trends.
 
-Inclusivity and purpose are also very important to me I’m motivated by workplaces that are committed to empowering others, especially through education and technology(This fills my cup).
+## Inclusivity and purpose are also very important to me I’m motivated by workplaces that are committed to empowering others, especially through education and technology(This fills my cup).
 
 ## Part 2: Career Exploration Insights
 
@@ -71,8 +71,15 @@ Inclusivity and purpose are also very important to me I’m motivated by workpla
 
 ### 2. Alignment with Personal Profile:
 
-- Reflect on how these industries/roles align with your skills, interests, and values.
-- Identify any gaps or areas for further exploration.
+**Reflect on how these industries/roles align with your skills, interests, and values.**
+
+The industries and roles I have explored such as EdTech, front-end development, UI/UX design, and STEM education technology align closely with both my professional background and my personal interests. My experience in STEM education, science communication, and coding and robotics facilitation has equipped me with strong skills in curriculum design, digital content creation, and public engagement. These skills translate well into roles that require creativity, user-centered thinking, and the ability to simplify complex information through digital platforms.
+
+These roles also align with my values of collaboration, inclusivity, and continuous learning. I enjoy working in environments that encourage innovation and that use technology to make education more accessible and engaging for all learners. My passion for empowering others through STEM education fits naturally within the growing field of educational technology.
+
+**Identify any gaps or areas for further exploration.**
+
+## I’ve identified areas for further development, particularly in advanced front-end programming (JavaScript and React), UI/UX design tools (such as Figma), and learning experience design (LXD). I would also like to explore more about how EdTech products are developed and tested, from user research to implementation in schools. Strengthening these skills will enable me to contribute more effectively to the design and development of digital learning solutions that reflect both my technical capabilities and my commitment to inclusive, future-focused education.
 
 ### Part 3: SMART Career Goals
 
