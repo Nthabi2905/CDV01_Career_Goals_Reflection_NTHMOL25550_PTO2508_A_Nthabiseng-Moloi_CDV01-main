@@ -5,6 +5,8 @@
 - **Current Role/Position:** Director:Somerset College Saturday School
 - **Field of Interest:** Front-end Developer, UI/UX Designer, Web Content Developer / Digital Learning Developer, EdTech Product Designer / Developer, STEM Education Technologist
 
+---
+
 ## Part 1: Self-Assessment Reflection
 
 ### 1. Skills Analysis:
@@ -49,15 +51,28 @@ Inclusivity and purpose are also very important to me I’m motivated by workpla
 
 ## Part 2: Career Exploration Insights
 
-1. **Industries and Roles Explored**:
+### 1. Industries and Roles Explored:
 
-   - List the industries or roles you have researched.
-   - Note any particular areas that piqued your interest.
+**List of industries or roles I have researched.**
 
-2. **Alignment with Personal Profile**:
+- Education Technology (EdTech)
+- Web Development and Design
+- STEM and Space Education
+- Digital Learning and E-Learning Design
+- Science Communication and Public Engagement
 
-   - Reflect on how these industries/roles align with your skills, interests, and values.
-   - Identify any gaps or areas for further exploration.
+**Areas that piqued your interest.**
+
+- Front-End Developer
+- UI/UX Designer
+- EdTech Product Designer / Developer
+- STEM Education Technologist
+- Digital Learning Developer
+
+### 2. Alignment with Personal Profile:
+
+- Reflect on how these industries/roles align with your skills, interests, and values.
+- Identify any gaps or areas for further exploration.
 
 ### Part 3: SMART Career Goals
 
