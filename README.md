@@ -47,7 +47,7 @@ In a work environment, I value collaboration, creativity, and continuous learnin
 
 I’m drawn to environments that promote growth and knowledge exchange, where I can learn from others, contribute my skills, and stay updated with new technologies and trends.
 
-## Inclusivity and purpose are also very important to me I’m motivated by workplaces that are committed to empowering others, especially through education and technology(This fills my cup).
+Inclusivity and purpose are also very important to me I’m motivated by workplaces that are committed to empowering others, especially through education and technology(This fills my cup).
 
 ## Part 2: Career Exploration Insights
 
