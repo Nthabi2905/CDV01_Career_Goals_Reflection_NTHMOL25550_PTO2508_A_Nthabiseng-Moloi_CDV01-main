@@ -171,5 +171,18 @@ My career path is focused on leveraging technology to transform learning. I am a
 
 ### 2. Opportunities for Growth:
 
-- Highlight any opportunities you can leverage for career growth.
-- Include networking, mentorship, or educational opportunities.
+**🚀 Career Growth Opportunities**
+
+| Opportunity Area            | Specific Opportunities                                        | How I'm Leveraging Them                                                                 |
+| :-------------------------- | :------------------------------------------------------------ | :-------------------------------------------------------------------------------------- |
+| **Educational Development** | Online learning platforms (FreeCodeCamp, Coursera)            | Following structured paths to master JavaScript & React through project-based learning. |
+|                             | Open-Source Projects (particularly EdTech)                    | Contributing to gain collaborative development experience and public track record.      |
+|                             | Hackathons & Coding Challenges (SheHacks_ZA, Frontend Mentor) | Applying skills under pressure to build portfolio and solve real problems.              |
+| **Networking & Community**  | Local Tech Meetups (Cape Town JS, UI/UX SA)                   | Attending events to connect with peers and learn about industry trends & roles.         |
+|                             | Online Networks (LinkedIn, Twitter/X)                         | Building professional presence by engaging with EdTech companies and developers.        |
+|                             | Alumni Networks (Stellenbosch, UNISA)                         | Connecting with graduates who've made similar transitions or work in target companies.  |
+| **Mentorship & Guidance**   | Formal Programs (Women in Tech ZA)                            | Seeking structured mentorship from experienced developers in the field.                 |
+|                             | Informational Interviews                                      | Requesting chats with EdTech professionals to learn about career paths and daily work.  |
+|                             | Peer Study Groups                                             | Forming accountability partnerships for code review and knowledge sharing.              |
+| **Domain Expertise**        | EdTech Industry Focus                                         | Positioning my education background as unique asset for understanding end-users.        |
+|                             | Science Communication Skills                                  | Bridging gaps between technical teams and non-technical stakeholders/clients.           |
